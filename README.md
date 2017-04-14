@@ -8,7 +8,7 @@
  * Create an About component that has the html of an about page. Be as creative as you have time for
  * Create a Contact component that has some input fields to enter email address and message and a send button
  * Create a Product component that will show the details of one component. It should receive the array of products from props. It should use the route variable id to find the specific product it should show.
- * Create another link in the top nav for Shop
+ * Create another link in the top nav for Shop. It should link to /shop/food
  * Use react router BrowserHistory to create routes for the About, Contact, Product and Shop Components
  * Put the routes in the "middle" content area between the nav bar and footer
  * The route for the Shop component should have a path variable for /:category
